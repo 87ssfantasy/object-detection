@@ -1,9 +1,6 @@
 # Real Time Object Detection
 A programs that can detect object in real time video stream.
 
-## Author
-Shuman Liu
-
 ## Model
 The model I use is the TensorFlow model called Tensorflow detection model zoo. The model I use is an old version.<br>
 the link to the model: [click here](https://github.com/tensorflow/models/blob/477ed41e7e4e8a8443bc633846eb01e2182dc68a/object_detection/g3doc/detection_model_zoo.md)<br>
